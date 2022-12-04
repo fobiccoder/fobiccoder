@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fobiccoder
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning c langiuage 
-- 💞️ I’m looking to collaborate with anyone who is learning c language
+- 🌱 I’m currently learning C langiuage 
+- 💞️ I’m looking to collaborate with anyone who is learning C language
 - 📫 my insta id- fobiccoder_23
 
 <!---
